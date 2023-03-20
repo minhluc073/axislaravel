@@ -10,7 +10,7 @@
         }
     ],
     "env": {
-        "APP_NAME": "Laravel Vercel",
+        "APP_NAME": "axislaravel",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://laravel-vercel.vercel.app",
